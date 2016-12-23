@@ -13,5 +13,7 @@
     Vector : 定义了三维点和三维向量的加减、点乘、叉乘等基本运算
     Matrix : 定义了4×4矩阵的加减、乘法等基本运算和旋转、平移、缩放等操作
     Color : 定义了rgb颜色的基本操作
-    Vertex : 定义了顶点的基本操作
+    Vertex : 定义了顶点的插值等基本操作
     Texture : 
+
+![image](https://github.com/ZhengYuXing/MiniRenderer/blob/master/image/image1.bmp)
